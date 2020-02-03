@@ -1,0 +1,48 @@
+Prob - 1 :
+Please write a program to print the list after removing delete even numbers in [5,6,77,45,22,12,24].
+
+Hints:
+Use list comprehension to delete a bunch of element from a list.
+
+
+Prob - 2 :
+Create a decorator that takes a list and gives only the unique elements of that list.
+
+
+Prob - 3 :
+Define a class named Shape and its subclass Square. The Square class has an init function which takes a length as argument. Both classes have a area function which can print the area of the shape where Shape's area is 0 by default.
+
+
+Prob - 4:
+Define a class Fibonacci which can be instantiated with a integer. There will be methods to print the elements, print the sum of all elements, print the sum of nth elements, print last two digits of the series.
+
+
+Prob - 5 :
+Define a custom exception class which takes a string message as attribute.
+
+
+Prob - 6 :
+Assuming that we have some email addresses in the "username@companyname.com" format, please write program to print the user name of a given email address. Both user names and company names are composed of letters only.
+
+Example:
+If the following email address is given as input to the program:
+
+john@google.com
+
+Then, the output of the program should be:
+
+john
+
+
+Prob - 7 :
+Write a program to compute:
+
+f(n)=f(n-1)+100 when n>0
+and f(0)=1
+
+using Recursion.
+
+
+Prob - 8:
+Write a program to solve a classic ancient Chinese puzzle: 
+We count 35 heads and 94 legs among the chickens and rabbits in a farm. How many rabbits and how many chickens do we have?

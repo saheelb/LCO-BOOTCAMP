@@ -1,0 +1,47 @@
+<key: Space, Pressed>
+<key: Space, Released>
+<key: Space, Pressed>
+<key: Space, Released>
+<key: Back, Pressed>
+<key: Back, Released>
+<key: Back, Pressed>
+<key: Back, Released>
+<key: Back, Pressed>
+<key: Back, Released>
+<key: Back, Pressed>
+<key: Back, Released>
+<key: Back, Pressed>
+<key: Back, Released>
+<key: Back, Pressed>
+<key: Back, Released>
+<key: Back, Pressed>
+<key: Back, Released>
+<key: Right Shift, Pressed>
+<key: N, Pressed>
+<key: N, Released>
+<key: Right Shift, Released>
+<key: O, Pressed>
+<key: O, Released>
+<key: N, Pressed>
+<key: N, Released>
+<key: E, Pressed>
+<key: E, Released>
+<key: Left Shift, Pressed>
+<key: 0, Pressed>
+<key: 0, Released>
+<key: Left Shift, Released>
+<key: Return, Pressed>
+<key: Return, Released>
+<key: Back, Pressed>
+<key: Back, Released>
+<key: Back, Pressed>
+<key: Back, Released>
+<key: Back, Pressed>
+<key: Back, Released>
+<key: Back, Pressed>
+<key: Back, Released>
+<key: Back, Pressed>
+<key: Back, Released>
+<key: Lmenu, Pressed>
+<key: Tab, Pressed>
+<key: Lmenu, Released>
